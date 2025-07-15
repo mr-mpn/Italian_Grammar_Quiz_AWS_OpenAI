@@ -1,0 +1,200 @@
+1|Come ti chiami?|Io sono Marco.|Lui è Marco.|Lei si chiama Marco.|Tu sei Marco.|1
+1|Ti piace la pizza?|Sì, mi piace.|Sì, ti piace.|Sì, gli piace.|Sì, ci piace.|1
+1|Che ora è? (1:00)|È l'una.|Sono le uno.|È il uno.|Sono l'una.|1
+1|Quando è il tuo compleanno? Il 5 maggio.|È il cinque di maggio.|Sono le cinque di maggio.|Ha cinque di maggio.|Fa cinque di maggio.|1
+1|Dove vai? Vado ___ Roma.|a|in|di|da|1
+1|Ieri sera, ___ un film.|ho visto|sono visto|hai visto|ho veduto|1
+1|Che tempo fa oggi?|È il sole.|C'è il sole.|Fa sole.|Ha il sole.|2
+1|Cosa regali a Maria? ___ regalo un libro.|Le|Gli|La|Li|1
+1|Che ore sono? (3:00)|È le tre.|Sono le tre.|Fa le tre.|Ha le tre.|2
+1|Maria ___ a casa.|è andata|ha andato|è andato|ha andata|1
+1|___ siamo studenti.|Voi|Loro|Noi|Tu|3
+1|A te piace studiare?|No, non mi piace.|No, non ti piace.|No, non gli piace.|No, non vi piace.|1
+1|Il libro è ___ tavolo.|sul|nel|al|dal|1
+1|Ieri ho ___ la pasta.|mangiato|mangiata|mangiati|mangiate|1
+1|Vedi il professore? Sì, ___ vedo.|lo|la|li|le|1
+1|Vorrei ___ un biglietto per favore.|comprare|comprato|compri|compro|1
+1|Ho ___ amico a Roma.|qualche|alcuni|un|dei|1
+1|Che giorno è oggi?|È lunedì.|Ha lunedì.|Fa lunedì.|Sta lunedì.|1
+1|Cosa hai fatto? ___ i compiti.|Ho fatto|Sono fatto|Ha fatto|Sei fatto|1
+1|Cosa dici a Paolo? ___ dico la verità.|Gli|Le|Lo|La|1
+2|A voi piacciono gli spaghetti?|Sì, ci piacciono.|Sì, vi piacciono.|Sì, gli piacciono.|Sì, mi piacciono.|1
+2|I miei amici ___ ieri.|sono partiti|hanno partito|sono partite|hanno partiti|1
+2|Vado ___ Stati Uniti.|nei|agli|negli|ai|3
+2|Che ore sono? (2:30)|Sono le due e trenta.|È le due e mezza.|Sono le due e mezzo.|Sono le due e mezza.|4
+2|Hai ___ il libro?|legguto|leggiuto|letto|leggito|3
+2|Hai comprato le mele? Sì, ___ comprate.|le ho|ho le|l'ho|le ho|1
+2|A me piace il gelato.|Anche a me.|Anche io.|Io anche.|A me no.|1
+2|Ieri ___ al cinema.|ho andato|sono andato|ho stato|ero andato|2
+2|Il museo è chiuso ___ domenica.|il|di|la|a|3
+2|Cosa ___ hai detto? (to them)|gli|loro|li|le|1
+2|A che ora ___ il treno?|parte|parta|partito|partendo|1
+2|Ieri ___ molto.|ha piovuto|è piovuto|ha piovuta|è piovuta|2
+2|Tu vai mai a teatro? No, non ci vado ___.|mai|sempre|qualche volta|ancora|1
+2|La pizza, la mangi? Sì, ___ mangio subito.|la|la mi|me la|io la|1
+2|In Italia ___ molta pasta.|si mangia|si mangiano|mangia si|mangiano si|1
+2|Dove hai ___ le chiavi?|metto|mettuto|messo|messuto|3
+2|Abito ___ nonni.|dai|dei|coi|sui|1
+2|A loro piace la musica? No, non ___ piace.|gli|loro|li|esse|1
+2|Che ora è? (12:15)|È mezzogiorno e un quarto.|Sono mezzogiorno e un quarto.|È il mezzogiorno e quindici.|Sono le dodici e un quarto.|4
+2|Perché non ___ ? (you, formal)|è venuto|è venuta|ha venuto|ha venuta|2
+3|Chi ti ha dato il libro? ___ ha dato Marco.|Me lo|Mi lo|Me la|Il me|1
+3|Non mi piace la pioggia.|Neanche a me.|Anche a me no.|A me neanche.|Io no.|1
+3|___ la lezione alle 9. (finire)|Ho finito|Sono finito|Ho finiti|Sono finita|1
+3|Parliamo ___ film che abbiamo visto.|del|al|nel|dal|1
+3|Quanti caffè bevi? ___ bevo due.|Ne|Li|Gli|Ci|1
+3|In questa scuola ___ studiare molto.|si deve|si devono|deve si|devono si|1
+3|Chi ha ___ la finestra?|aperto|aprito|aprendo|apruto|1
+3|Voglio vederlo / ___|Lo voglio vedere|Voglio lo vedere|Lo vedo voglio|Vedere lo voglio|1
+3|Mancano dieci minuti ___ quattro.|alle|ai|delle|sulle|1
+3|Non ho ___ visto un film così bello.|mai|ancora|più|sempre|1
+3|Hai telefonato ai tuoi genitori? Sì, ___ ho telefonato ieri.|gli|li|loro|le|1
+3|Sono nato ___ 1990.|nel|il|in|al|1
+3|La settimana scorsa, ___ in montagna. (noi)|siamo andati|abbiamo andato|siamo andate|abbiamo andati|1
+3|Ho comprato ___ mele.|alcune|qualche|un po' di|dei|1
+3|È possibile ___ con la carta di credito?|pagare|pagato|pago|pagando|1
+3|Le foto? Le hai viste? Sì, ___ viste.|le ho|ho le|l'ho|le ho|1
+3|Oggi è una giornata ___ .|ventosa|vento|di vento|con il vento|1
+3|A noi piace viaggiare.|A noi invece no.|A noi neanche.|Anche a noi no.|Noi non.|1
+3|Cosa hai ___ ieri sera? (bere)|bevuto|beuto|bevito|beveto|1
+3|Esco ___ ufficio alle sei.|dall'|dell'|nell'|all'|1
+4|Hai dei fratelli? Sì, ___ ho uno.|ne|lo|ci|li|1
+4|Ieri ___ molto.|si è ballato|si ha ballato|si è ballati|si sono ballati|1
+4|Devi comprare il pane? Sì, ___ comprare.|lo devo|devo lo|ne devo|lo ne devo|1
+4|Ieri sera ___ a casa tutto il giorno. (rimanere)|sono rimasto/a|ho rimasto|sono stato|ho rimanuto|1
+4|A Marco non piacciono gli spinaci.|Neanche a me.|Neanche io.|Anche a me no.|A me sì.|1
+4|Chi ha ___ a questa domanda?|risposto|risponduto|risposo|risponso|1
+4|Un tavolo ___ legno.|di|da|in|con|1
+4|Non ___ mai stato in Giappone.|sono|ho|fui|ebbi|1
+4|Il film inizia ___ tre e un quarto.|alle|sulle|nelle|con le|1
+4|Conosci ___ ristorante buono in questa zona?|qualche|alcuni|dei|un|1
+4|Che cosa ___ piace fare nel tempo libero? (to you all)|vi|ve|voi|ci|1
+4|Mi puoi prestare la penna? Sì, ___ presto subito.|te la|me la|ti la|la ti|1
+4|___ dal treno alle 8. (scendere)|Sono sceso/a|Ho sceso|Ho scenduto|Sono scenduto|1
+4|Quanto ___ il biglietto?|costa|costi|costato|costare|1
+4|In montagna, ___ fare belle passeggiate.|si possono|si può|possono si|può si|2
+4|Vuoi della torta? Sì, grazie, ___ vorrei una fetta.|ne|la|lo|una|1
+4|C'era una ___ fittissima stamattina.|nebbia|nuvola|pioggia|grandine|1
+4|Ci vediamo ___ prossimo.|mercoledì|il mercoledì|di mercoledì|a mercoledì|1
+4|Avete ___ le notizie?|saputo|sapeto|conosciuto|sapito|1
+4|Vengo ___ medico.|dal|al|col|nel|1
+5|Se vuoi le chiavi, ___ do stasera.|te le|ti le|te li|me le|1
+5|Alla festa di ieri, ___ molto. (bere)|si è bevuto|si ha bevuto|si sono bevuti|si ha bevuti|1
+5|Hai letto molti libri quest'anno? No, ___ letti solo un paio.|ne ho|li ho|ho ne|ho li|1
+5|Non ___ venire alla festa.|sono potuto/a|ho potuto|sono dovuto/a|ho dovuto|1
+5|Trovo questo film noioso.|Anch'io.|A me anche.|Anche a me.|Io pure.|1
+5|La pizza che hai ordinato, l'hai ___ tutta?|mangiata|mangiato|mangiati|mangiate|1
+5|Pensi spesso ai tuoi amici? Sì, ___ penso sempre.|ci|li|ne|a loro|1
+5|Non vado ___ in quella pizzeria, non mi è piaciuta.|più|mai|ancora|sempre|1
+5|Mi sa dire che ore ___ per favore?|sono|è|fanno|abbiamo|1
+5|Ti ___ il film di ieri?|è piaciuto|ha piaciuto|sono piaciuti|hanno piaciuti|1
+5|Gli devi parlare? Sì, ___ parlare.|gli devo|devo gli|lo devo|devo parlargli|4
+5|La mattina, ___ presto.|ci si alza|si alza|si ci alza|ci si alzano|1
+5|Il vaso è ___ dal tavolo. (cadere)|caduto|cadde|cadendo|cascato|1
+5|Vorrei prenotare una ___ matrimoniale.|camera|stanza|albergo|pensione|1
+5|Di cosa parlate? ___ di politica.|Ne|Ci|La|Lo|1
+5|Hai visto Maria? Sì, ___ vista stamattina.|l'ho|la ho|gli ho|le ho|1
+5|Che ___ che fa oggi! (hot)|caldo|calore|calda|callo|1
+5|La riunione è fissata per ___ 15 luglio.|il|al|nel|sul|1
+5|___ in palestra per due ore. (correre)|Ho corso|Sono corso/a|Ho corruto|Sono corruto|1
+5|Questo è un regalo ___ te.|per|a|di|con|1
+6|Chi ti ha regalato questa borsa? ___ regalata mia madre.|Me l'ha|Mi l'ha|Me la ha|Mi la ha|1
+6|A che ora ___ ieri?|ci si è svegliati|si ci è svegliati|si è svegliato|ci si ha svegliato|1
+6|Sei mai stato a Parigi? No, non ___ sono mai stato.|ci|ne|lo|la|1
+6|___ andare al mare, ma pioveva.|Saremmo dovuti|Avremmo dovuto|Saremo potuti|Avremmo potuto|2
+6|Non mi sarebbe piaciuto per niente quel concerto.|Neanche a me.|A me invece sì.|A me neanche.|Io no.|2
+6|Di pizze, ___ mangiate due.|ne ho|le ho|ne ho mangiate|le ho mangiate|3
+6|Non ___ a fare tutto in tempo.|ce la faccio|ci faccio|la faccio|ne faccio|1
+6|Da quando ho smesso di fumare, non ho ___ toccato una sigaretta.|più|mai|ancora|affatto|1
+6|Sono le sette ___ .|in punto|precise|esatte|giuste|1
+6|Ti ___ un caffè?|piacerebbe|piace|piacerà|piacesse|1
+6|Signora, ___ posso offrire qualcosa?|Le|La|Gli|Vi|1
+6|Quando si è stanchi, ___ si riposa.|ci|se|si|ne|1
+6|La discussione è ___ in un litigio. (finire)|finita|finendo|finse|finì|1
+6|Il volo ha un ___ di due ore.|ritardo|ritardato|tardi|tardo|1
+6|Quante belle ragazze! ___ sono tante!|Ce ne|Ci ne|Ne ci|Le ne|1
+6|La disturbo? No, non ___ disturba affatto.|mi|me|La|L'|3
+6|Piove ___ .|a catinelle|forte|tanto|molto|1
+6|Dante Alighieri morì ___ 1321.|nel|il|in|del|1
+6|Ho ___ le scale di corsa.|salito|saliti|salita|salite|1
+6|Dobbiamo finire il progetto ___ due settimane.|entro|in|fra|per|1
+7|Hai le mie chiavi? ___ subito!|Dammele|Da me le|Me le dai|Dallemi|1
+7|Si ___ molte case durante il terremoto.|sono costruite|è costruito|ha costruito|hanno costruito|1
+7|Non ___ niente di quello che dici.|ci capisco|ne capisco|lo capisco|capisco|1
+7|Non ci sei potuto/a andare? No, non ___ potuto andare.|ci sono|ci ho|sono ci|ho ci|1
+7|Penso che sia stata una pessima idea.|Sono d'accordo.|Anche a me.|A me no.|Neanche per sogno.|1
+7|La decisione che abbiamo ___ è definitiva.|preso|presa|presi|prese|2
+7|___ un'ora per arrivare.|Ci vuole|Si vuole|Vuole|C'è bisogno|1
+7|Non ho visto ___ alla festa.|nessuno|mai|niente|alcuno|1
+7|L'evento avrà luogo alle ore 21:00 ___ .|precise|puntuali|esatte|in punto|1
+7|Spero che ___ il regalo.|ti piaccia|ti piace|ti piacerebbe|ti piacerà|1
+7|___ il passaporto al poliziotto.|Gli ho dato|L'ho dato|Glielo ho dato|Lo ho dato a lui|1
+7|Questa torta ___ da mia nonna.|è stata fatta|si è fatta|ha fatto|si è fatta fare|1
+7|Hai ___ il compito? (scegliere)|scelto|scegliuto|sceso|scielto|1
+7|Dobbiamo fare il ___ prima delle 11.|check-out|controllo|biglietto|conto|1
+7|Ne vuoi ancora? No, grazie, ___ ho già avuto abbastanza.|ne|lo|la|ci|1
+7|Di problemi, ___ molti.|ne ho|li ho|ci ho|ne sono|1
+7|Domani ___ probabilmente.|pioverà|piove|sta piovendo|ha piovuto|1
+7|La scadenza è fissata ___ e non oltre il 31 dicembre.|entro|per|a|in|1
+7|Ieri sera ___ molto in discoteca. (saltare)|ho saltato|sono saltato/a|ho saltellato|sono saltellato/a|1
+7|Vado in vacanza ___ Sicilia.|in|a|per|di|1
+8|Sbrigati e mettiti le scarpe! ___ !|Mettitele|Ti le metti|Le ti metti|Mettileti|1
+8|In questo negozio, i vestiti ___ prova prima di comprarli.|li si|si li|se li|si gli|1
+8|Quanto tempo ___ per finire il lavoro?|ci hai messo|ti ha messo|hai messo|sei messo|1
+8|Non sono voluto andare, ma ___ andare.|avrei dovuto|sarei dovuto|dovevo|ho dovuto|1
+8|Per quanto mi ___, la decisione spetta a te.|riguarda|concerne|importa|tocca|1
+8|Le ragazze che ho ___ sono molto simpatiche.|conosciuto|conosciute|conosciuti|conosciuta|2
+8|Non credo a questa storia, non ___ credo per niente.|ci|la|ne|lo|1
+8|Non solo non mi ha aiutato, ___ mi ha anche criticato.|ma|bensì|però|e|1
+8|Saranno ___ le dieci.|circa|quasi|verso|intorno|3
+8|Mi ___ vedere quel film, ma non ho avuto tempo.|sarebbe piaciuto|piacerebbe|era piaciuto|avrei piaciuto|1
+8|___ mangi una bella mela?|Mi|Ti|Si|Ci|1
+8|In quel ristorante, ___ dà del 'tu' a tutti.|si|ci si|si ci|vi si|1
+8|L'edificio è stato ___ nel 1950. (erigere)|eretto|eriguto|eretto|erigito|1
+8|La mia valigia è stata ___ .|smarrita|persa|rotta|dimenticata|1
+8|Non ___ posso più di questa situazione!|ne|ci|lo|la|1
+8|Signora, ___ cercata ieri, ma non era in ufficio.|L'ho|La ho|Le ho|Gli ho|1
+8|Penso che domani ___ .|piova|piove|pioverà|piovesse|1
+8|Ho insistito ___ venire con noi.|per|a|di|in|2
+8|Ho ___ a Roma per dieci anni.|vissuto|vivuto|vivendo|sono vissuto|1
+8|Sono stufo ___ aspettare.|di|a|per|con|1
+9|Signora, se ha bisogno del documento, ___.|me lo dica|mi lo dica|dica me lo|dicamelo|1
+9|Durante le vacanze, ___ molto. (divertirsi)|ci si diverte|si diverte|si divertono|ci si divertono|1
+9|___ di tempo per pensarci bene.|Ce ne vuole|Ci ne vuole|Ne ci vuole|Ce ne vogliono|4
+9|Non essendo potuto andare, ___ a casa.|sono rimasto|ho rimasto|fui rimasto|ero rimasto|1
+9|Non che non mi piaccia, ___ preferisco altro.|semplicemente|ma|però|bensì|1
+9|___ la porta, sono uscito.|Chiusa|Chiuso|Avendo chiuso|Essendo chiuso|3
+9|Non ho superato l'esame e ___ sono rimasto male.|ci|ne|lo|mi|1
+9|Non mi piace ___ il pesce ___ la carne.|né...né|o...o|non...non|sia...sia|1
+9|Siamo arrivati ___ .|pelo|tempo|ora|momento|1
+9|Se mi ___ di più, te lo avrei comprato.|fosse piaciuto|sarebbe piaciuto|era piaciuto|avesse piaciuto|1
+9|Stavo parlando con lui -> ___ parlando.|Gli stavo|Stavo gli|Lo stavo|Stavo lo|1
+9|Si prega di non ___ .|fumare|fuma|fumando|fumato|1
+9|Il fuoco ha ___ la foresta. (distruggere)|distrutto|distrugguto|distrutto|distruggito|1
+9|Ho dovuto compilare un ___ per il visto.|modulo|foglio|documento|certificato|1
+9|Di amici veri, ___ pochi.|ce ne sono|ci sono|ne sono|sono|1
+9|Non sapevo che fossi qui, ___ scopro solo ora.|lo|la|li|questo|1
+9|Si prevede ___ per il fine settimana.|pioggia|piovoso|che piova|piovigginare|1
+9|Torno ___ un'ora.|tra|in|fra|entro|1
+9|Ho ___ il prezzo di 10 euro.|aumentato|sono aumentato|aumentato|sono aumentato|1
+9|Stare ___ guardia.|in|a|di|con|2
+10|Non gliene hai parlato? No, non ___ ancora parlato.|gliene ho|glielo ho|glie ne ho|ho gliene|1
+10|Le canzoni, quando le si ascolta attentamente, ___ si apprezzano di più.|le|se le|si le|ci le|1
+10|Per questo progetto, ce ne vorranno almeno due. No, ___ bastare uno.|dovrebbe|dovrebbero|dovrei|dovresti|1
+10|Mi ___ tagliare i capelli dal nuovo parrucchiere.|sono fatto|ho fatto|mi ha fatto|sono stato fatto|2
+10|Non posso che ___ con la sua analisi.|concordare|accordare|piacere|confermare|1
+10|Le lettere che ci siamo ___ sono andate perse.|scritte|scritto|scritti|scrivendo|1
+10|Era una trappola e io ___ .|ci sono cascato|ne sono cascato|l'ho cascato|mi sono cascato|1
+10|Non ho visto ___ film ___ libro che mi avesse colpito.|né...né|alcun...né|nessun...né|mai...né|1
+10|Era l'ora ___ in cui i desideri sembrano stelle.|vespertina|del vespro|vespro|di vespro|2
+10|Se solo mi ___ che venivi, ti avrei preparato una cena migliore.|avessi detto|avessi piaciuto|fossi piaciuto|mi avessi detto|1
+10|Pur ___ andare, sono rimasto.|dovendomene|me ne dovendo|dovendo me ne|dovendomi ne|1
+10|A volte, si è sopraffatti ___ eventi.|dagli|con gli|per gli|negli|1
+10|Il traditore fu ___ sulla pubblica piazza. (impiccare)|impiccato|impicco|impiccato|impiccato|1
+10|Abbiamo viaggiato in lungo e in ___ per tutta l'Italia.|largo|corto|profondo|alto|1
+10|Di quante cose che ___ vanno, e non tornano più!|se ne|ci ne|si ne|ne si|1
+10|Come sospettavo, Marco ha mentito, e l'averlo ___ mi ha deluso.|scoperto|scoperta|scoperti|scoperte|1
+10|Un ___ improvviso interruppe la quiete pomeridiana.|acquazzone|piovasco|rovescio|nubifragio|1
+10|Ho studiato ___ tre ore / Studio ___ tre ore.|per / da|da / per|in / da|per / in|1
+10|Sono ___ di casa alle otto.|uscito/a|ho uscito|uscendo|uscii|1
+10|Il libro parla ___ guerra.|della|sulla|alla|con la|1
