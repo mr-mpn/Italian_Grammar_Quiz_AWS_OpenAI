@@ -1,4 +1,6 @@
 # Italian_grammar_quiz_aws
+<img width="600" height="326" alt="openai-aws-600x326" src="https://github.com/user-attachments/assets/7582870a-37ee-4ea2-aa98-908b0cea2993" />
+
 
 This is the backend infrastructure for an Italian grammar quiz application.
 
